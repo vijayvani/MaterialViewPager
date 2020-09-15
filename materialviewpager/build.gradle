@@ -47,7 +47,7 @@ ext {
     libraryDescription = 'MaterialViewPager'
 
     siteUrl = 'https://github.com/florent37/MaterialViewPager'
-    gitUrl = 'https://github.com/florent37/MaterialViewPager.git'
+    gitUrl = 'https://github.com/vijayvani/MaterialViewPager.git'
 
     libraryVersion = rootProject.ext.libraryVersion
 
